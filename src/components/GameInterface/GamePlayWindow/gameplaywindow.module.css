@@ -1,0 +1,14 @@
+.game_play_window{
+    position:relative;
+    height:50vh;
+    width:90vw;
+    max-width:500px;
+    border: 2px solid white;
+    border-radius:10px 10px 0 0;
+}
+
+@media (min-width:768px){
+    .game_play_window{
+        border-radius: 10px 0 0 10px;
+    }
+}
