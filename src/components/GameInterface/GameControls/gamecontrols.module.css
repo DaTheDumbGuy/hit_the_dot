@@ -3,6 +3,7 @@
     flex-direction: column;
     background:white;
     padding:1em;
+    min-width:230px;
     border-radius:0 0 5px 5px;
 }
 .hitMissedContainer h2{

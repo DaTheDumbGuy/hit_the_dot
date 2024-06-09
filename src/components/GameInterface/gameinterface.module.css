@@ -1,4 +1,6 @@
-
+.gameInterface{
+    max-width:700px;
+}
 @media (min-width:768px){
     .gameInterface{
         display:flex;
